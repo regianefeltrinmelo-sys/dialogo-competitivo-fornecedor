@@ -37,7 +37,7 @@ Ou selecione o perfil **Fornecedor Estrangeiro** e utilize suas credenciais para
 
 ![Tela 06](Imagens/tela06.png)
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: FORNECEDORES</p>
+
 
 # MANIFESTANDO INTERESSE EM PARTICIPAR DE UM DIÁLOGO COMPETITIVO
 
