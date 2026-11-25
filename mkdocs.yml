@@ -1,4 +1,4 @@
-site_name: Nome do Projeto / Manual
+site_name: Como participar de uma contratação na modalidade Diálogo Competitivo
 
 theme:
   name: readthedocs
@@ -11,7 +11,8 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - 1. 
+  - 1. Acessando uma contratação: 01-acessando-contratacao.md
+  - 2. Manifestando interesse: 02-manifestando-interesse.md
   - Versão Completa do material: manual-completo.md
 
 # Configuração dos estilos e scripts customizados
